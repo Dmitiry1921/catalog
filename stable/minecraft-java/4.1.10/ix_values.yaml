@@ -198,7 +198,7 @@ workload:
 
 persistence:
   data:
-    enabled: true
+    enabled: false
     mountPath: "/data"
 
 portal:
